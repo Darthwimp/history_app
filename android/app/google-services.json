@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131824912701",
+    "project_id": "history-app-9dc16",
+    "storage_bucket": "history-app-9dc16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131824912701:android:623cbb9a04f462d5449d54",
+        "android_client_info": {
+          "package_name": "com.example.history_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2vxqwlCVQ-q0VBlwkKy-5wSVOqVA1SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
